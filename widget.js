@@ -7,7 +7,7 @@
     const domain = scriptTag.dataset.domain || 'general';
 
     // رابط Webhook الخاص بك
-    const webhookUrl = "https://marouass.app.n8n.cloud/webhook/1e73c5cc-f997-4d9d-8e83-9153791c925f/chat";
+    const webhookUrl = "https://marouass.app.n8n.cloud/webhook-test/19cfac5f-1486-49da-9073-fd2cfdbf4c23";
 
     // إنشاء أيقونة Chat
     const toggle = document.createElement('div');
